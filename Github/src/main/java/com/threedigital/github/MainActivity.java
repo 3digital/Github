@@ -12,7 +12,7 @@ public class MainActivity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        Log.e("Hack", "This is a message for commit changes");
+        Log.e("Hack", "This is a message for commit");
     }
 
 

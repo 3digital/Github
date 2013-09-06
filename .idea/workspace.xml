@@ -11,7 +11,48 @@
     </shared>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d3dbcf41-1c2d-4590-9215-050c852c648a" name="Default" comment="" />
+    <list default="true" id="d3dbcf41-1c2d-4590-9215-050c852c648a" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Github/build/apk/Github-debug-unaligned.apk" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Github/build/classes/debug/com/threedigital/github/BuildConfig.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Github/build/classes/debug/com/threedigital/github/MainActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Github/build/classes/debug/com/threedigital/github/R$attr.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Github/build/classes/debug/com/threedigital/github/R$dimen.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Github/build/classes/debug/com/threedigital/github/R$drawable.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Github/build/classes/debug/com/threedigital/github/R$id.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Github/build/classes/debug/com/threedigital/github/R$layout.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Github/build/classes/debug/com/threedigital/github/R$menu.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Github/build/classes/debug/com/threedigital/github/R$string.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Github/build/classes/debug/com/threedigital/github/R$style.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Github/build/classes/debug/com/threedigital/github/R.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Github/build/incremental/aidl/debug/dependency.store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Github/build/incremental/aidl/debug/inputs.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Github/build/incremental/aidl/debug/outputs.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Github/build/incremental/dex/debug/inputs.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Github/build/incremental/dex/debug/outputs.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Github/build/incremental/mergeAssets/debug/inputs.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Github/build/incremental/mergeAssets/debug/merger.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Github/build/incremental/mergeAssets/debug/outputs.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Github/build/incremental/mergeResources/debug/inputs.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Github/build/incremental/mergeResources/debug/merger.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Github/build/incremental/mergeResources/debug/outputs.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Github/build/libs/Github-debug.ap_" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Github/build/libs/Github-debug.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Github/build/manifests/debug/AndroidManifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Github/build/res/all/debug/drawable-hdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Github/build/res/all/debug/drawable-mdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Github/build/res/all/debug/drawable-xhdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Github/build/res/all/debug/drawable-xxhdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Github/build/res/all/debug/layout/activity_main.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Github/build/res/all/debug/menu/main.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Github/build/res/all/debug/values-sw720dp-land/values.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Github/build/res/all/debug/values-v11/values.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Github/build/res/all/debug/values-v14/values.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Github/build/res/all/debug/values/values.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Github/build/source/buildConfig/debug/com/threedigital/github/BuildConfig.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Github/build/source/r/debug/com/threedigital/github/R.java" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Github/src/main/java/com/threedigital/github/MainActivity.java" afterPath="$PROJECT_DIR$/Github/src/main/java/com/threedigital/github/MainActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="Github.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -89,7 +130,7 @@
       <file leaf-file-name="MainActivity.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Github/src/main/java/com/threedigital/github/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="54" selection-start="405" selection-end="405" vertical-scroll-proportion="0.24229075" vertical-offset="0" max-vertical-offset="681">
+            <state line="13" column="0" selection-start="350" selection-end="350" vertical-scroll-proportion="0.22123894" vertical-offset="0" max-vertical-offset="678">
               <folding />
             </state>
           </provider>
@@ -153,7 +194,7 @@
     <option name="x" value="20" />
     <option name="y" value="22" />
     <option name="width" value="1400" />
-    <option name="height" value="804" />
+    <option name="height" value="801" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -334,6 +375,7 @@
     <property name="recentsLimit" value="5" />
     <property name="MemberChooser.sorted" value="false" />
     <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
+    <property name="last_opened_file_path" value="$USER_HOME$/playground/WeatherMEProject" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
     <property name="MemberChooser.copyJavadoc" value="false" />
@@ -472,7 +514,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="20" y="22" width="1400" height="804" extended-state="0" />
+    <frame x="20" y="22" width="1400" height="801" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -527,7 +569,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Github/src/main/java/com/threedigital/github/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="54" selection-start="405" selection-end="405" vertical-scroll-proportion="0.24229075" vertical-offset="0" max-vertical-offset="681">
+        <state line="13" column="0" selection-start="350" selection-end="350" vertical-scroll-proportion="0.22123894" vertical-offset="0" max-vertical-offset="678">
           <folding />
         </state>
       </provider>
