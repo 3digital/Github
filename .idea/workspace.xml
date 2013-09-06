@@ -12,44 +12,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d3dbcf41-1c2d-4590-9215-050c852c648a" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Github/build/apk/Github-debug-unaligned.apk" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Github/build/classes/debug/com/threedigital/github/BuildConfig.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Github/build/classes/debug/com/threedigital/github/MainActivity.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Github/build/classes/debug/com/threedigital/github/R$attr.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Github/build/classes/debug/com/threedigital/github/R$dimen.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Github/build/classes/debug/com/threedigital/github/R$drawable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Github/build/classes/debug/com/threedigital/github/R$id.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Github/build/classes/debug/com/threedigital/github/R$layout.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Github/build/classes/debug/com/threedigital/github/R$menu.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Github/build/classes/debug/com/threedigital/github/R$string.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Github/build/classes/debug/com/threedigital/github/R$style.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Github/build/classes/debug/com/threedigital/github/R.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Github/build/incremental/aidl/debug/dependency.store" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Github/build/incremental/aidl/debug/inputs.data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Github/build/incremental/aidl/debug/outputs.data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Github/build/incremental/dex/debug/inputs.data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Github/build/incremental/dex/debug/outputs.data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Github/build/incremental/mergeAssets/debug/inputs.data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Github/build/incremental/mergeAssets/debug/merger.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Github/build/incremental/mergeAssets/debug/outputs.data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Github/build/incremental/mergeResources/debug/inputs.data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Github/build/incremental/mergeResources/debug/merger.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Github/build/incremental/mergeResources/debug/outputs.data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Github/build/libs/Github-debug.ap_" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Github/build/libs/Github-debug.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Github/build/manifests/debug/AndroidManifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Github/build/res/all/debug/drawable-hdpi/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Github/build/res/all/debug/drawable-mdpi/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Github/build/res/all/debug/drawable-xhdpi/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Github/build/res/all/debug/drawable-xxhdpi/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Github/build/res/all/debug/layout/activity_main.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Github/build/res/all/debug/menu/main.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Github/build/res/all/debug/values-sw720dp-land/values.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Github/build/res/all/debug/values-v11/values.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Github/build/res/all/debug/values-v14/values.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Github/build/res/all/debug/values/values.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Github/build/source/buildConfig/debug/com/threedigital/github/BuildConfig.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Github/build/source/r/debug/com/threedigital/github/R.java" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Github/src/main/java/com/threedigital/github/MainActivity.java" afterPath="$PROJECT_DIR$/Github/src/main/java/com/threedigital/github/MainActivity.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -130,8 +92,10 @@
       <file leaf-file-name="MainActivity.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Github/src/main/java/com/threedigital/github/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="0" selection-start="350" selection-end="350" vertical-scroll-proportion="0.22123894" vertical-offset="0" max-vertical-offset="678">
-              <folding />
+            <state line="27" column="0" selection-start="650" selection-end="650" vertical-scroll-proportion="0.5973451" vertical-offset="0" max-vertical-offset="678">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -511,6 +475,11 @@
       <created>1378495329714</created>
       <updated>1378495329714</updated>
     </task>
+    <task id="LOCAL-00001" summary="Build directory not needed.">
+      <created>1378501124582</created>
+      <updated>1378501124583</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -552,6 +521,8 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
+    <MESSAGE value="Build directory not needed." />
+    <option name="LAST_COMMIT_MESSAGE" value="Build directory not needed." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -569,8 +540,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Github/src/main/java/com/threedigital/github/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="0" selection-start="350" selection-end="350" vertical-scroll-proportion="0.22123894" vertical-offset="0" max-vertical-offset="678">
-          <folding />
+        <state line="27" column="0" selection-start="650" selection-end="650" vertical-scroll-proportion="0.5973451" vertical-offset="0" max-vertical-offset="678">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
